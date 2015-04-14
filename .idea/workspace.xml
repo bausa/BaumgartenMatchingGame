@@ -1,0 +1,1382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94f1d283-b504-4f5a-8cb9-c48c8680af4a" name="Default" comment="" />
+    <ignored path="BaumgartenMatchingGame.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="BaumgartenMatchingGame" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/makrr/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#main#0;class#Main#0" expanded="true" />
+                <element signature="method#animatePath#0;class#Main#0" expanded="true" />
+                <element signature="method#newGame#0;class#Main#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SamActorWorld.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/makrr/SamActorWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1365">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#SamActorWorld#0;class#SamActorWorld#0" expanded="true" />
+                <element signature="method#show#0;class#SamActorWorld#0" expanded="true" />
+                <element signature="method#step#0;class#SamActorWorld#0" expanded="true" />
+                <element signature="method#add#1;class#SamActorWorld#0" expanded="true" />
+                <element signature="method#remove#0;class#SamActorWorld#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SamWorld.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="173" max-vertical-offset="4230">
+              <caret line="26" column="11" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#SamWorld#0;class#SamWorld#0" expanded="true" />
+                <element signature="method#SamWorld#1;class#SamWorld#0" expanded="true" />
+                <element signature="method#show#0;class#SamWorld#0" expanded="true" />
+                <element signature="method#setGrid#0;class#SamWorld#0" expanded="true" />
+                <element signature="method#setMessage#0;class#SamWorld#0" expanded="true" />
+                <element signature="method#locationClicked#0;class#SamWorld#0" expanded="true" />
+                <element signature="method#getRandomEmptyLocation#0;class#SamWorld#0" expanded="true" />
+                <element signature="e#4143#4153#0" expanded="true" />
+                <element signature="method#add#0;class#SamWorld#0" expanded="true" />
+                <element signature="method#remove#0;class#SamWorld#0" expanded="true" />
+                <element signature="method#repaint#0;class#SamWorld#0" expanded="true" />
+                <element signature="method#toString#0;class#SamWorld#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SamWorldFrame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorldFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1140" max-vertical-offset="7875">
+              <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#20553#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#SamWorldFrame#0;class#SamWorldFrame#0" expanded="true" />
+                <element signature="method#repaint#0;class#SamWorldFrame#0" expanded="true" />
+                <element signature="method#setGrid#0;class#SamWorldFrame#0" expanded="true" />
+                <element signature="e#8788#8801#0" expanded="true" />
+                <element signature="method#showError#0;class#SamWorldFrame#0" expanded="true" />
+                <element signature="method#makeMenu#0;class#SamWorldFrame#0" expanded="true" />
+                <element signature="method#makeMenuItem#0;class#SamWorldFrame#0" expanded="true" />
+                <element signature="method#configureMenuItem#0;class#SamWorldFrame#0" expanded="true" />
+                <element signature="method#configureAbstractButton#0;class#SamWorldFrame#0" expanded="true" />
+                <element signature="method#makeMenus#0;class#SamWorldFrame#0" expanded="true" />
+                <element signature="method#makeNewGridMenu#0;class#SamWorldFrame#0" expanded="true" />
+                <element signature="method#setRunMenuItemsEnabled#0;class#SamWorldFrame#0" expanded="true" />
+                <element signature="method#showAboutPanel#0;class#SamWorldFrame#0" expanded="true" />
+                <element signature="method#showHelp#0;class#SamWorldFrame#0" expanded="true" />
+                <element signature="method#showLicense#0;class#SamWorldFrame#0" expanded="true" />
+                <element signature="method#handle#0;class#GUIExceptionHandler#0;class#SamWorldFrame#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GridWorld.gif" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/makrr/GridWorld.gif">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatchingGrid.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchingGrid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="2040">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#MatchingGrid#0;class#MatchingGrid#0" expanded="true" />
+                <element signature="method#setupGridWithRandomActors#0;class#MatchingGrid#0" expanded="true" />
+                <element signature="method#locationClicked#0;class#MatchingGrid#0" expanded="true" />
+                <element signature="method#checkForGameEnd#0;class#MatchingGrid#0" expanded="true" />
+                <element signature="method#getRandomLocation#0;class#MatchingGrid#0" expanded="true" />
+                <element signature="method#getRandomColor#0;class#MatchingGrid#0" expanded="true" />
+                <element signature="method#getRandomInt#0;class#MatchingGrid#0" expanded="true" />
+                <element signature="method#getRandomFloat#0;class#MatchingGrid#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatchActor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchActor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="585">
+              <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#setColor#0;class#MatchActor#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BacktrackingAlgorithm.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/makrr/BacktrackingAlgorithm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.64714944" vertical-offset="0" max-vertical-offset="1365">
+              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#numberOfTurnsInPath#0;class#BacktrackingAlgorithm#0" expanded="true" />
+                <element signature="method#possibleLocationsForLocation#0;class#BacktrackingAlgorithm#0" expanded="true" />
+                <element signature="e#1992#2002#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SamWorldFrameResources.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorldFrameResources.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1050">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SamGUIController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/makrr/SamGUIController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="4740">
+              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10905#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#SamGUIController#0;class#SamGUIController#0" expanded="true" />
+                <element signature="method#step#0;class#SamGUIController#0" expanded="true" />
+                <element signature="method#addOccupant#0;class#SamGUIController#0" expanded="true" />
+                <element signature="method#run#0;class#SamGUIController#0" expanded="true" />
+                <element signature="method#stop#0;class#SamGUIController#0" expanded="true" />
+                <element signature="method#makeControls#0;class#SamGUIController#0" expanded="true" />
+                <element signature="method#locationClicked#0;class#SamGUIController#0" expanded="true" />
+                <element signature="method#editLocation#0;class#SamGUIController#0" expanded="true" />
+                <element signature="method#deleteLocation#0;class#SamGUIController#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/makrr/SamMenuMaker.java" />
+        <option value="$PROJECT_DIR$/src/com/makrr/SamActorWorld.java" />
+        <option value="$PROJECT_DIR$/src/com/makrr/SamWorldFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/makrr/SamWorldFrameResources.properties" />
+        <option value="$PROJECT_DIR$/src/com/makrr/MatchActor.java" />
+        <option value="$PROJECT_DIR$/src/com/makrr/SamWorld.java" />
+        <option value="$PROJECT_DIR$/src/com/makrr/PathfindingAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/makrr/MatchingGrid.java" />
+        <option value="$PROJECT_DIR$/src/com/makrr/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/makrr/SamGUIController.java" />
+        <option value="$PROJECT_DIR$/src/com/makrr/BacktrackingAlgorithm.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="93" />
+    <option name="y" value="23" />
+    <option name="width" value="1746" />
+    <option name="height" value="1101" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaumgartenMatchingGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaumgartenMatchingGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaumgartenMatchingGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaumgartenMatchingGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BaumgartenMatchingGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="makrr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/gridworld.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/makrr" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.makrr.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BaumgartenMatchingGame" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94f1d283-b504-4f5a-8cb9-c48c8680af4a" name="Default" comment="" />
+      <created>1426882768197</created>
+      <option name="number" value="Default" />
+      <updated>1426882768197</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="93" y="23" width="1746" height="1101" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297244" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32903865" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24941315" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3996063" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="43" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="path" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamActorWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1365">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#SamActorWorld#0;class#SamActorWorld#0" expanded="true" />
+            <element signature="method#show#0;class#SamActorWorld#0" expanded="true" />
+            <element signature="method#step#0;class#SamActorWorld#0" expanded="true" />
+            <element signature="method#add#1;class#SamActorWorld#0" expanded="true" />
+            <element signature="method#remove#0;class#SamActorWorld#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="173" max-vertical-offset="4230">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#SamWorld#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#SamWorld#1;class#SamWorld#0" expanded="true" />
+            <element signature="method#show#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#setGrid#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#setMessage#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#locationClicked#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#getRandomEmptyLocation#0;class#SamWorld#0" expanded="true" />
+            <element signature="e#4143#4153#0" expanded="true" />
+            <element signature="method#add#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#remove#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#repaint#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#toString#0;class#SamWorld#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorldFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1140" max-vertical-offset="7875">
+          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#20553#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#SamWorldFrame#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#repaint#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#setGrid#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="e#8788#8801#0" expanded="true" />
+            <element signature="method#showError#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#makeMenu#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#makeMenuItem#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#configureMenuItem#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#configureAbstractButton#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#makeMenus#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#makeNewGridMenu#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#setRunMenuItemsEnabled#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#showAboutPanel#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#showHelp#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#showLicense#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#handle#0;class#GUIExceptionHandler#0;class#SamWorldFrame#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/GridWorld.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchingGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="2040">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#MatchingGrid#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#setupGridWithRandomActors#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#locationClicked#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#checkForGameEnd#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getRandomLocation#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getRandomColor#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getRandomInt#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getRandomFloat#0;class#MatchingGrid#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="585">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setColor#0;class#MatchActor#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/BacktrackingAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1140">
+          <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#numberOfTurnsInPath#0;class#BacktrackingAlgorithm#0" expanded="true" />
+            <element signature="method#possibleLocationsForLocation#0;class#BacktrackingAlgorithm#0" expanded="true" />
+            <element signature="e#1992#2002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorldFrameResources.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1050">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamGUIController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="4740">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10905#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#SamGUIController#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#step#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#addOccupant#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#run#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#stop#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#makeControls#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#locationClicked#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#editLocation#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#deleteLocation#0;class#SamGUIController#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="810">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#Main#0" expanded="true" />
+            <element signature="method#animatePath#0;class#Main#0" expanded="true" />
+            <element signature="method#newGame#0;class#Main#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamActorWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1365">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#SamActorWorld#0;class#SamActorWorld#0" expanded="true" />
+            <element signature="method#show#0;class#SamActorWorld#0" expanded="true" />
+            <element signature="method#step#0;class#SamActorWorld#0" expanded="true" />
+            <element signature="method#add#1;class#SamActorWorld#0" expanded="true" />
+            <element signature="method#remove#0;class#SamActorWorld#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="173" max-vertical-offset="4230">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#SamWorld#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#SamWorld#1;class#SamWorld#0" expanded="true" />
+            <element signature="method#show#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#setGrid#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#setMessage#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#locationClicked#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#getRandomEmptyLocation#0;class#SamWorld#0" expanded="true" />
+            <element signature="e#4143#4153#0" expanded="true" />
+            <element signature="method#add#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#remove#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#repaint#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#toString#0;class#SamWorld#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchingGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="142" max-vertical-offset="2040">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#MatchingGrid#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#setupGridWithRandomActors#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#locationClicked#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#checkForGameEnd#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getRandomLocation#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getRandomColor#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getRandomInt#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getRandomFloat#0;class#MatchingGrid#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/PathfindingAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="270">
+          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/BacktrackingAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1140">
+          <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#numberOfTurnsInPath#0;class#BacktrackingAlgorithm#0" expanded="true" />
+            <element signature="method#possibleLocationsForLocation#0;class#BacktrackingAlgorithm#0" expanded="true" />
+            <element signature="e#1992#2002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorldFrameResources.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1050">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/gridworld.jar!/info/gridworld/grid/Location.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="705">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7456" max-vertical-offset="10800">
+          <caret line="833" column="0" selection-start-line="833" selection-start-column="0" selection-end-line="833" selection-end-column="0" />
+          <folding>
+            <element signature="e#30716#30717#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamGUIController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3915">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10905#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#SamGUIController#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#step#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#addOccupant#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#run#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#stop#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#makeControls#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#locationClicked#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#editLocation#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#deleteLocation#0;class#SamGUIController#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#Main#0" expanded="true" />
+            <element signature="method#animatePath#0;class#Main#0" expanded="true" />
+            <element signature="method#newGame#0;class#Main#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchingGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="865" max-vertical-offset="2520">
+          <caret line="79" column="35" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#MatchingGrid#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#setupGridWithRandomActors#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#locationClicked#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#checkForGameEnd#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getRandomLocation#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getRandomColor#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getRandomInt#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getRandomFloat#0;class#MatchingGrid#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7456" max-vertical-offset="10800">
+          <caret line="833" column="0" selection-start-line="833" selection-start-column="0" selection-end-line="833" selection-end-column="0" />
+          <folding>
+            <element signature="e#30716#30717#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/awt/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7381" max-vertical-offset="12375">
+          <caret line="697" column="25" selection-start-line="697" selection-start-column="19" selection-end-line="697" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#44153#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="initializer##0;class#Color#0" expanded="false" />
+            <element signature="method#testColorValueRange#0;class#Color#0" expanded="false" />
+            <element signature="method#testColorValueRange#1;class#Color#0" expanded="false" />
+            <element signature="e#10465#10466#0" expanded="false" />
+            <element signature="e#10499#10500#0" expanded="false" />
+            <element signature="method#Color#1;class#Color#0" expanded="false" />
+            <element signature="e#11984#11985#0" expanded="false" />
+            <element signature="e#12024#12025#0" expanded="false" />
+            <element signature="method#Color#3;class#Color#0" expanded="false" />
+            <element signature="method#Color#4;class#Color#0" expanded="false" />
+            <element signature="method#Color#5;class#Color#0" expanded="false" />
+            <element signature="method#Color#6;class#Color#0" expanded="false" />
+            <element signature="e#17219#17220#0" expanded="false" />
+            <element signature="e#17265#17266#0" expanded="false" />
+            <element signature="e#17454#17455#0" expanded="false" />
+            <element signature="e#17499#17500#0" expanded="false" />
+            <element signature="e#17685#17686#0" expanded="false" />
+            <element signature="e#17730#17731#0" expanded="false" />
+            <element signature="e#17886#17887#0" expanded="false" />
+            <element signature="e#17932#17933#0" expanded="false" />
+            <element signature="e#18395#18396#0" expanded="false" />
+            <element signature="e#18423#18424#0" expanded="false" />
+            <element signature="method#brighter#0;class#Color#0" expanded="false" />
+            <element signature="method#darker#0;class#Color#0" expanded="false" />
+            <element signature="e#21422#21423#0" expanded="false" />
+            <element signature="e#21450#21451#0" expanded="false" />
+            <element signature="e#22087#22088#0" expanded="false" />
+            <element signature="e#22172#22173#0" expanded="false" />
+            <element signature="method#toString#0;class#Color#0" expanded="false" />
+            <element signature="method#decode#0;class#Color#0" expanded="false" />
+            <element signature="e#24437#24438#0" expanded="false" />
+            <element signature="e#24478#24479#0" expanded="false" />
+            <element signature="method#getColor#1;class#Color#0" expanded="false" />
+            <element signature="method#getColor#2;class#Color#0" expanded="false" />
+            <element signature="method#HSBtoRGB#0;class#Color#0" expanded="false" />
+            <element signature="method#RGBtoHSB#0;class#Color#0" expanded="false" />
+            <element signature="e#33466#33467#0" expanded="false" />
+            <element signature="e#33517#33518#0" expanded="false" />
+            <element signature="method#getRGBComponents#0;class#Color#0" expanded="false" />
+            <element signature="method#getRGBColorComponents#0;class#Color#0" expanded="false" />
+            <element signature="method#getComponents#0;class#Color#0" expanded="false" />
+            <element signature="method#getColorComponents#0;class#Color#0" expanded="false" />
+            <element signature="method#getComponents#1;class#Color#0" expanded="false" />
+            <element signature="method#getColorComponents#1;class#Color#0" expanded="false" />
+            <element signature="method#getColorSpace#0;class#Color#0" expanded="false" />
+            <element signature="method#createContext#0;class#Color#0" expanded="false" />
+            <element signature="method#getTransparency#0;class#Color#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="705">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setColor#0;class#MatchActor#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamGUIController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="736" max-vertical-offset="5310">
+          <caret line="63" column="40" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#10905#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#SamGUIController#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#step#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#addOccupant#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#run#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#stop#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#makeControls#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#locationClicked#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#editLocation#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#deleteLocation#0;class#SamGUIController#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorldFrameResources.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="1050">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorldFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1305" max-vertical-offset="7875">
+          <caret line="87" column="30" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#20553#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#SamWorldFrame#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#repaint#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#setGrid#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="e#8788#8801#0" expanded="true" />
+            <element signature="method#showError#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#makeMenu#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#makeMenuItem#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#configureMenuItem#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#configureAbstractButton#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#makeMenus#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#makeNewGridMenu#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#setRunMenuItemsEnabled#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#showAboutPanel#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#showHelp#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#showLicense#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#handle#0;class#GUIExceptionHandler#0;class#SamWorldFrame#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#Main#0" expanded="true" />
+            <element signature="method#animatePath#0;class#Main#0" expanded="true" />
+            <element signature="method#newGame#0;class#Main#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamMenuMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8550">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/util/ResourceBundle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5160796" vertical-offset="7538" max-vertical-offset="30060">
+          <caret line="771" column="4" selection-start-line="771" selection-start-column="4" selection-end-line="771" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/gridworld.jar!/info/gridworld/grid/UnboundedGrid.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21496816" vertical-offset="0" max-vertical-offset="628">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5311" max-vertical-offset="13200">
+          <caret line="487" column="17" selection-start-line="487" selection-start-column="17" selection-end-line="487" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/awt/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7381" max-vertical-offset="12375">
+          <caret line="697" column="25" selection-start-line="697" selection-start-column="19" selection-end-line="697" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#44153#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="initializer##0;class#Color#0" expanded="false" />
+            <element signature="method#testColorValueRange#0;class#Color#0" expanded="false" />
+            <element signature="method#testColorValueRange#1;class#Color#0" expanded="false" />
+            <element signature="e#10465#10466#0" expanded="false" />
+            <element signature="e#10499#10500#0" expanded="false" />
+            <element signature="method#Color#1;class#Color#0" expanded="false" />
+            <element signature="e#11984#11985#0" expanded="false" />
+            <element signature="e#12024#12025#0" expanded="false" />
+            <element signature="method#Color#3;class#Color#0" expanded="false" />
+            <element signature="method#Color#4;class#Color#0" expanded="false" />
+            <element signature="method#Color#5;class#Color#0" expanded="false" />
+            <element signature="method#Color#6;class#Color#0" expanded="false" />
+            <element signature="e#17219#17220#0" expanded="false" />
+            <element signature="e#17265#17266#0" expanded="false" />
+            <element signature="e#17454#17455#0" expanded="false" />
+            <element signature="e#17499#17500#0" expanded="false" />
+            <element signature="e#17685#17686#0" expanded="false" />
+            <element signature="e#17730#17731#0" expanded="false" />
+            <element signature="e#17886#17887#0" expanded="false" />
+            <element signature="e#17932#17933#0" expanded="false" />
+            <element signature="e#18395#18396#0" expanded="false" />
+            <element signature="e#18423#18424#0" expanded="false" />
+            <element signature="method#brighter#0;class#Color#0" expanded="false" />
+            <element signature="method#darker#0;class#Color#0" expanded="false" />
+            <element signature="e#21422#21423#0" expanded="false" />
+            <element signature="e#21450#21451#0" expanded="false" />
+            <element signature="e#22087#22088#0" expanded="false" />
+            <element signature="e#22172#22173#0" expanded="false" />
+            <element signature="method#toString#0;class#Color#0" expanded="false" />
+            <element signature="method#decode#0;class#Color#0" expanded="false" />
+            <element signature="e#24437#24438#0" expanded="false" />
+            <element signature="e#24478#24479#0" expanded="false" />
+            <element signature="method#getColor#1;class#Color#0" expanded="false" />
+            <element signature="method#getColor#2;class#Color#0" expanded="false" />
+            <element signature="method#HSBtoRGB#0;class#Color#0" expanded="false" />
+            <element signature="method#RGBtoHSB#0;class#Color#0" expanded="false" />
+            <element signature="e#33466#33467#0" expanded="false" />
+            <element signature="e#33517#33518#0" expanded="false" />
+            <element signature="method#getRGBComponents#0;class#Color#0" expanded="false" />
+            <element signature="method#getRGBColorComponents#0;class#Color#0" expanded="false" />
+            <element signature="method#getComponents#0;class#Color#0" expanded="false" />
+            <element signature="method#getColorComponents#0;class#Color#0" expanded="false" />
+            <element signature="method#getComponents#1;class#Color#0" expanded="false" />
+            <element signature="method#getColorComponents#1;class#Color#0" expanded="false" />
+            <element signature="method#getColorSpace#0;class#Color#0" expanded="false" />
+            <element signature="method#createContext#0;class#Color#0" expanded="false" />
+            <element signature="method#getTransparency#0;class#Color#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34829444" vertical-offset="4006" max-vertical-offset="4650">
+          <caret line="348" column="23" selection-start-line="348" selection-start-column="23" selection-end-line="348" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0444105" vertical-offset="4598" max-vertical-offset="7740">
+          <caret line="381" column="29" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/gridworld.jar!/info/gridworld/actor/Actor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7755835" vertical-offset="48" max-vertical-offset="660">
+          <caret line="98" column="16" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/gridworld.jar!/info/gridworld/grid/AbstractGrid.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16157989" vertical-offset="0" max-vertical-offset="557">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/gridworld.jar!/info/gridworld/grid/BoundedGrid.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16157989" vertical-offset="0" max-vertical-offset="557">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/PathfindingAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7456" max-vertical-offset="10800">
+          <caret line="833" column="0" selection-start-line="833" selection-start-column="0" selection-end-line="833" selection-end-column="0" />
+          <folding>
+            <element signature="e#30716#30717#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/gridworld.jar!/info/gridworld/grid/Location.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="705">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamActorWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#SamActorWorld#0;class#SamActorWorld#0" expanded="true" />
+            <element signature="method#show#0;class#SamActorWorld#0" expanded="true" />
+            <element signature="method#step#0;class#SamActorWorld#0" expanded="true" />
+            <element signature="method#add#1;class#SamActorWorld#0" expanded="true" />
+            <element signature="method#remove#0;class#SamActorWorld#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="705">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setColor#0;class#MatchActor#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchingGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="142" max-vertical-offset="2040">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#MatchingGrid#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#setupGridWithRandomActors#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#locationClicked#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#checkForGameEnd#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getRandomLocation#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getRandomColor#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getRandomInt#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getRandomFloat#0;class#MatchingGrid#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorldFrameResources.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamGUIController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="4740">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10905#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#SamGUIController#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#step#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#addOccupant#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#run#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#stop#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#makeControls#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#locationClicked#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#editLocation#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#deleteLocation#0;class#SamGUIController#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="173" max-vertical-offset="4230">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#SamWorld#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#SamWorld#1;class#SamWorld#0" expanded="true" />
+            <element signature="method#show#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#setGrid#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#setMessage#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#locationClicked#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#getRandomEmptyLocation#0;class#SamWorld#0" expanded="true" />
+            <element signature="e#4143#4153#0" expanded="true" />
+            <element signature="method#add#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#remove#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#repaint#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#toString#0;class#SamWorld#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorldFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="945" max-vertical-offset="7875">
+          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#20553#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#SamWorldFrame#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#repaint#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#setGrid#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="e#8788#8801#0" expanded="true" />
+            <element signature="method#showError#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#makeMenu#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#makeMenuItem#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#configureMenuItem#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#configureAbstractButton#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#makeMenus#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#makeNewGridMenu#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#setRunMenuItemsEnabled#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#showAboutPanel#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#showHelp#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#showLicense#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="method#handle#0;class#GUIExceptionHandler#0;class#SamWorldFrame#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/GridWorld.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#Main#0" expanded="true" />
+            <element signature="method#animatePath#0;class#Main#0" expanded="true" />
+            <element signature="method#newGame#0;class#Main#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/BacktrackingAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64714944" vertical-offset="0" max-vertical-offset="1365">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#numberOfTurnsInPath#0;class#BacktrackingAlgorithm#0" expanded="true" />
+            <element signature="method#possibleLocationsForLocation#0;class#BacktrackingAlgorithm#0" expanded="true" />
+            <element signature="e#1992#2002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BaumgartenMatchingGame</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
