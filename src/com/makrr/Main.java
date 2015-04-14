@@ -11,46 +11,18 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.lang.reflect.InvocationTargetException;
 import java.util.ArrayList;
+import java.util.ResourceBundle;
 
-public class Main implements MatchingGrid.AnimationDelegate {
+public class Main {
     static SamActorWorld world;
-    static MatchingGrid currentGrid;
 
     public static void main(String[] args) throws InvocationTargetException, NoSuchMethodException, InstantiationException, IllegalAccessException {
-        currentGrid = new MatchingGrid(8, 8, BacktrackingAlgorithm.class);
-
-        world = new SamActorWorld(currentGrid);
-
-        Timer t = new Timer(100, new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                currentGrid.animationDelegate = new Main();
-                world.show();
-            }
-        });
-
-        t.start();
+        world = new SamActorWorld(new BoundedGrid<Actor>(10, 10));
+        world.setMessage(getResources().getString("message.default"));
+        world.show();
     }
 
-    public void animatePath(final ArrayList<Location> path) {
-        final MatchActor actor = (MatchActor) currentGrid.get(path.get(0));
-        for (int i = 1; i < path.size(); i++) {
-            final int finalI = i;
-            Timer t = new Timer(i * 75, new ActionListener() {
-                @Override
-                public void actionPerformed(ActionEvent e) {
-                    if (finalI == path.size() - 1) {
-                        currentGrid.get(path.get(finalI)).removeSelfFromGrid();
-                        currentGrid.get(path.get(finalI - 1)).removeSelfFromGrid();
-                    } else actor.moveTo(path.get(finalI));
-                }
-            });
-            t.setRepeats(false);
-            t.start();
-        }
-    }
-
-    public static void newGame() {
-
+    public static ResourceBundle getResources() {
+        return ResourceBundle.getBundle(SamWorldFrame.class.getName() + "Resources");
     }
 }

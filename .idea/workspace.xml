@@ -28,40 +28,22 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/makrr/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#main#0;class#Main#0" expanded="true" />
-                <element signature="method#animatePath#0;class#Main#0" expanded="true" />
-                <element signature="method#newGame#0;class#Main#0" expanded="true" />
+                <element signature="method#getResources#0;class#Main#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SamActorWorld.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/makrr/SamActorWorld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1365">
-              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#SamActorWorld#0;class#SamActorWorld#0" expanded="true" />
-                <element signature="method#show#0;class#SamActorWorld#0" expanded="true" />
-                <element signature="method#step#0;class#SamActorWorld#0" expanded="true" />
-                <element signature="method#add#1;class#SamActorWorld#0" expanded="true" />
-                <element signature="method#remove#0;class#SamActorWorld#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SamWorld.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SamWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="173" max-vertical-offset="4230">
-              <caret line="26" column="11" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.3559322" vertical-offset="1449" max-vertical-offset="4230">
+              <caret line="118" column="42" selection-start-line="118" selection-start-column="42" selection-end-line="118" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#SamWorld#0;class#SamWorld#0" expanded="true" />
@@ -69,9 +51,10 @@
                 <element signature="method#show#0;class#SamWorld#0" expanded="true" />
                 <element signature="method#setGrid#0;class#SamWorld#0" expanded="true" />
                 <element signature="method#setMessage#0;class#SamWorld#0" expanded="true" />
-                <element signature="method#locationClicked#0;class#SamWorld#0" expanded="true" />
+                <element signature="e#2197#2198#0" expanded="true" />
+                <element signature="e#2227#2228#0" expanded="true" />
                 <element signature="method#getRandomEmptyLocation#0;class#SamWorld#0" expanded="true" />
-                <element signature="e#4143#4153#0" expanded="true" />
+                <element signature="e#4058#4068#0" expanded="true" />
                 <element signature="method#add#0;class#SamWorld#0" expanded="true" />
                 <element signature="method#remove#0;class#SamWorld#0" expanded="true" />
                 <element signature="method#repaint#0;class#SamWorld#0" expanded="true" />
@@ -84,13 +67,15 @@
       <file leaf-file-name="SamWorldFrame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorldFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1140" max-vertical-offset="7875">
-              <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+            <state vertical-scroll-proportion="-17.192308" vertical-offset="2523" max-vertical-offset="7860">
+              <caret line="211" column="5" selection-start-line="211" selection-start-column="5" selection-end-line="211" selection-end-column="5" />
               <folding>
                 <element signature="e#0#20553#0" expanded="true" />
                 <element signature="imports" expanded="true" />
                 <element signature="method#SamWorldFrame#0;class#SamWorldFrame#0" expanded="true" />
                 <element signature="method#repaint#0;class#SamWorldFrame#0" expanded="true" />
+                <element signature="e#8465#8466#0" expanded="true" />
+                <element signature="e#8493#8494#0" expanded="true" />
                 <element signature="method#setGrid#0;class#SamWorldFrame#0" expanded="true" />
                 <element signature="e#8788#8801#0" expanded="true" />
                 <element signature="method#showError#0;class#SamWorldFrame#0" expanded="true" />
@@ -117,61 +102,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MatchingGrid.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchingGrid.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="2040">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#MatchingGrid#0;class#MatchingGrid#0" expanded="true" />
-                <element signature="method#setupGridWithRandomActors#0;class#MatchingGrid#0" expanded="true" />
-                <element signature="method#locationClicked#0;class#MatchingGrid#0" expanded="true" />
-                <element signature="method#checkForGameEnd#0;class#MatchingGrid#0" expanded="true" />
-                <element signature="method#getRandomLocation#0;class#MatchingGrid#0" expanded="true" />
-                <element signature="method#getRandomColor#0;class#MatchingGrid#0" expanded="true" />
-                <element signature="method#getRandomInt#0;class#MatchingGrid#0" expanded="true" />
-                <element signature="method#getRandomFloat#0;class#MatchingGrid#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MatchActor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchActor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="585">
-              <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#setColor#0;class#MatchActor#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BacktrackingAlgorithm.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/makrr/BacktrackingAlgorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64714944" vertical-offset="0" max-vertical-offset="1365">
-              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#numberOfTurnsInPath#0;class#BacktrackingAlgorithm#0" expanded="true" />
-                <element signature="method#possibleLocationsForLocation#0;class#BacktrackingAlgorithm#0" expanded="true" />
-                <element signature="e#1992#2002#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SamWorldFrameResources.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorldFrameResources.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1050">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
+              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -180,8 +115,8 @@
       <file leaf-file-name="SamGUIController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/makrr/SamGUIController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="4740">
-              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.846154" vertical-offset="3558" max-vertical-offset="4740">
+              <caret line="294" column="29" selection-start-line="294" selection-start-column="29" selection-end-line="294" selection-end-column="29" />
               <folding>
                 <element signature="e#0#10905#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -191,7 +126,6 @@
                 <element signature="method#run#0;class#SamGUIController#0" expanded="true" />
                 <element signature="method#stop#0;class#SamGUIController#0" expanded="true" />
                 <element signature="method#makeControls#0;class#SamGUIController#0" expanded="true" />
-                <element signature="method#locationClicked#0;class#SamGUIController#0" expanded="true" />
                 <element signature="method#editLocation#0;class#SamGUIController#0" expanded="true" />
                 <element signature="method#deleteLocation#0;class#SamGUIController#0" expanded="true" />
               </folding>
@@ -206,15 +140,15 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/makrr/SamMenuMaker.java" />
         <option value="$PROJECT_DIR$/src/com/makrr/SamActorWorld.java" />
-        <option value="$PROJECT_DIR$/src/com/makrr/SamWorldFrame.java" />
-        <option value="$PROJECT_DIR$/src/com/makrr/SamWorldFrameResources.properties" />
         <option value="$PROJECT_DIR$/src/com/makrr/MatchActor.java" />
-        <option value="$PROJECT_DIR$/src/com/makrr/SamWorld.java" />
         <option value="$PROJECT_DIR$/src/com/makrr/PathfindingAlgorithm.java" />
         <option value="$PROJECT_DIR$/src/com/makrr/MatchingGrid.java" />
-        <option value="$PROJECT_DIR$/src/com/makrr/Main.java" />
         <option value="$PROJECT_DIR$/src/com/makrr/SamGUIController.java" />
         <option value="$PROJECT_DIR$/src/com/makrr/BacktrackingAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/makrr/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/makrr/SamWorldFrameResources.properties" />
+        <option value="$PROJECT_DIR$/src/com/makrr/SamWorldFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/makrr/SamWorld.java" />
       </list>
     </option>
   </component>
@@ -504,7 +438,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32903865" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32903865" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24941315" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -512,7 +446,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3996063" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39940536" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -538,7 +472,21 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="43" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/makrr/SamWorldFrame.java</url>
+          <line>204</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/makrr/SamWorldFrame.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="45" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -577,9 +525,10 @@
             <element signature="method#show#0;class#SamWorld#0" expanded="true" />
             <element signature="method#setGrid#0;class#SamWorld#0" expanded="true" />
             <element signature="method#setMessage#0;class#SamWorld#0" expanded="true" />
-            <element signature="method#locationClicked#0;class#SamWorld#0" expanded="true" />
+            <element signature="e#2197#2198#0" expanded="true" />
+            <element signature="e#2227#2228#0" expanded="true" />
             <element signature="method#getRandomEmptyLocation#0;class#SamWorld#0" expanded="true" />
-            <element signature="e#4143#4153#0" expanded="true" />
+            <element signature="e#4058#4068#0" expanded="true" />
             <element signature="method#add#0;class#SamWorld#0" expanded="true" />
             <element signature="method#remove#0;class#SamWorld#0" expanded="true" />
             <element signature="method#repaint#0;class#SamWorld#0" expanded="true" />
@@ -597,6 +546,8 @@
             <element signature="imports" expanded="true" />
             <element signature="method#SamWorldFrame#0;class#SamWorldFrame#0" expanded="true" />
             <element signature="method#repaint#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="e#8465#8466#0" expanded="true" />
+            <element signature="e#8493#8494#0" expanded="true" />
             <element signature="method#setGrid#0;class#SamWorldFrame#0" expanded="true" />
             <element signature="e#8788#8801#0" expanded="true" />
             <element signature="method#showError#0;class#SamWorldFrame#0" expanded="true" />
@@ -620,50 +571,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchingGrid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="2040">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#MatchingGrid#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#setupGridWithRandomActors#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#locationClicked#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#checkForGameEnd#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#getRandomLocation#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#getRandomColor#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#getRandomInt#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#getRandomFloat#0;class#MatchingGrid#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchActor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="585">
-          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#setColor#0;class#MatchActor#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/makrr/BacktrackingAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1140">
-          <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#numberOfTurnsInPath#0;class#BacktrackingAlgorithm#0" expanded="true" />
-            <element signature="method#possibleLocationsForLocation#0;class#BacktrackingAlgorithm#0" expanded="true" />
-            <element signature="e#1992#2002#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorldFrameResources.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1050">
@@ -685,7 +592,6 @@
             <element signature="method#run#0;class#SamGUIController#0" expanded="true" />
             <element signature="method#stop#0;class#SamGUIController#0" expanded="true" />
             <element signature="method#makeControls#0;class#SamGUIController#0" expanded="true" />
-            <element signature="method#locationClicked#0;class#SamGUIController#0" expanded="true" />
             <element signature="method#editLocation#0;class#SamGUIController#0" expanded="true" />
             <element signature="method#deleteLocation#0;class#SamGUIController#0" expanded="true" />
           </folding>
@@ -699,8 +605,7 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#main#0;class#Main#0" expanded="true" />
-            <element signature="method#animatePath#0;class#Main#0" expanded="true" />
-            <element signature="method#newGame#0;class#Main#0" expanded="true" />
+            <element signature="method#getResources#0;class#Main#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -731,51 +636,14 @@
             <element signature="method#show#0;class#SamWorld#0" expanded="true" />
             <element signature="method#setGrid#0;class#SamWorld#0" expanded="true" />
             <element signature="method#setMessage#0;class#SamWorld#0" expanded="true" />
-            <element signature="method#locationClicked#0;class#SamWorld#0" expanded="true" />
+            <element signature="e#2197#2198#0" expanded="true" />
+            <element signature="e#2227#2228#0" expanded="true" />
             <element signature="method#getRandomEmptyLocation#0;class#SamWorld#0" expanded="true" />
-            <element signature="e#4143#4153#0" expanded="true" />
+            <element signature="e#4058#4068#0" expanded="true" />
             <element signature="method#add#0;class#SamWorld#0" expanded="true" />
             <element signature="method#remove#0;class#SamWorld#0" expanded="true" />
             <element signature="method#repaint#0;class#SamWorld#0" expanded="true" />
             <element signature="method#toString#0;class#SamWorld#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchingGrid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="142" max-vertical-offset="2040">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#MatchingGrid#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#setupGridWithRandomActors#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#locationClicked#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#checkForGameEnd#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#getRandomLocation#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#getRandomColor#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#getRandomInt#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#getRandomFloat#0;class#MatchingGrid#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/makrr/PathfindingAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="270">
-          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/makrr/BacktrackingAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1140">
-          <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#numberOfTurnsInPath#0;class#BacktrackingAlgorithm#0" expanded="true" />
-            <element signature="method#possibleLocationsForLocation#0;class#BacktrackingAlgorithm#0" expanded="true" />
-            <element signature="e#1992#2002#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -818,7 +686,6 @@
             <element signature="method#run#0;class#SamGUIController#0" expanded="true" />
             <element signature="method#stop#0;class#SamGUIController#0" expanded="true" />
             <element signature="method#makeControls#0;class#SamGUIController#0" expanded="true" />
-            <element signature="method#locationClicked#0;class#SamGUIController#0" expanded="true" />
             <element signature="method#editLocation#0;class#SamGUIController#0" expanded="true" />
             <element signature="method#deleteLocation#0;class#SamGUIController#0" expanded="true" />
           </folding>
@@ -832,26 +699,7 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#main#0;class#Main#0" expanded="true" />
-            <element signature="method#animatePath#0;class#Main#0" expanded="true" />
-            <element signature="method#newGame#0;class#Main#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchingGrid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="865" max-vertical-offset="2520">
-          <caret line="79" column="35" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#MatchingGrid#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#setupGridWithRandomActors#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#locationClicked#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#checkForGameEnd#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#getRandomLocation#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#getRandomColor#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#getRandomInt#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#getRandomFloat#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#getResources#0;class#Main#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -924,19 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchActor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="705">
-          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#setColor#0;class#MatchActor#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/makrr/SamGUIController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="736" max-vertical-offset="5310">
@@ -950,7 +785,6 @@
             <element signature="method#run#0;class#SamGUIController#0" expanded="true" />
             <element signature="method#stop#0;class#SamGUIController#0" expanded="true" />
             <element signature="method#makeControls#0;class#SamGUIController#0" expanded="true" />
-            <element signature="method#locationClicked#0;class#SamGUIController#0" expanded="true" />
             <element signature="method#editLocation#0;class#SamGUIController#0" expanded="true" />
             <element signature="method#deleteLocation#0;class#SamGUIController#0" expanded="true" />
           </folding>
@@ -974,6 +808,8 @@
             <element signature="imports" expanded="true" />
             <element signature="method#SamWorldFrame#0;class#SamWorldFrame#0" expanded="true" />
             <element signature="method#repaint#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="e#8465#8466#0" expanded="true" />
+            <element signature="e#8493#8494#0" expanded="true" />
             <element signature="method#setGrid#0;class#SamWorldFrame#0" expanded="true" />
             <element signature="e#8788#8801#0" expanded="true" />
             <element signature="method#showError#0;class#SamWorldFrame#0" expanded="true" />
@@ -999,8 +835,7 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#main#0;class#Main#0" expanded="true" />
-            <element signature="method#animatePath#0;class#Main#0" expanded="true" />
-            <element signature="method#newGame#0;class#Main#0" expanded="true" />
+            <element signature="method#getResources#0;class#Main#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1009,6 +844,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8550">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="method#SamMenuMaker#0;class#SamMenuMaker#0" expanded="false" />
+            <element signature="method#makeMethodMenu#0;class#SamMenuMaker#0" expanded="false" />
+            <element signature="method#makeConstructorMenu#0;class#SamMenuMaker#0" expanded="false" />
+            <element signature="method#addConstructors#0;class#SamMenuMaker#0" expanded="false" />
+            <element signature="method#getMethods#0;class#SamMenuMaker#0" expanded="false" />
+            <element signature="method#compare#0;class#4832:5597" expanded="false" />
+            <element signature="method#depth#0;class#4832:5597" expanded="false" />
+            <element signature="method#getDisplayString#0;class#MCItem#0;class#SamMenuMaker#0" expanded="false" />
+            <element signature="method#appendTypeName#0;class#MCItem#0;class#SamMenuMaker#0" expanded="false" />
+            <element signature="method#makeDefaultValue#0;class#MCItem#0;class#SamMenuMaker#0" expanded="false" />
+            <element signature="method#ConstructorItem#0;class#ConstructorItem#0;class#SamMenuMaker#0" expanded="false" />
+            <element signature="method#invokeConstructor#0;class#ConstructorItem#0;class#SamMenuMaker#0" expanded="false" />
+            <element signature="method#OccupantConstructorItem#0;class#OccupantConstructorItem#0;class#SamMenuMaker#0" expanded="false" />
+            <element signature="e#9642#9672#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#OccupantConstructorItem#0;class#SamMenuMaker#0" expanded="false" />
+            <element signature="method#GridConstructorItem#0;class#GridConstructorItem#0;class#SamMenuMaker#0" expanded="false" />
+            <element signature="e#10209#10239#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#GridConstructorItem#0;class#SamMenuMaker#0" expanded="false" />
+            <element signature="method#MethodItem#0;class#MethodItem#0;class#SamMenuMaker#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#MethodItem#0;class#SamMenuMaker#0" expanded="false" />
+            <element signature="method#PropertySheet#0;class#PropertySheet#0" expanded="false" />
+            <element signature="method#getEditor#0;class#PropertySheet#0" expanded="false" />
+            <element signature="method#getEditorComponent#0;class#PropertySheet#0" expanded="false" />
+            <element signature="e#15614#15907#0" expanded="false" />
+            <element signature="e#15906#15907#0" expanded="false" />
+            <element signature="method#insertUpdate#0;class#16099:16906" expanded="false" />
+            <element signature="method#removeUpdate#0;class#16099:16906" expanded="false" />
+            <element signature="method#changedUpdate#0;class#16099:16906" expanded="false" />
+            <element signature="method#getValues#0;class#PropertySheet#0" expanded="false" />
+            <element signature="e#17442#17443#0" expanded="false" />
+            <element signature="e#17492#17493#0" expanded="false" />
+            <element signature="e#17543#17544#0" expanded="false" />
+            <element signature="e#17578#17579#0" expanded="false" />
+            <element signature="initializer##0;class#PropertySheet#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1016,6 +887,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5160796" vertical-offset="7538" max-vertical-offset="30060">
           <caret line="771" column="4" selection-start-line="771" selection-start-column="4" selection-end-line="771" selection-end-column="4" />
+          <folding>
+            <element signature="method#getBundle#0;class#ResourceBundle#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1030,6 +904,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="5311" max-vertical-offset="13200">
           <caret line="487" column="17" selection-start-line="487" selection-start-column="17" selection-end-line="487" selection-end-column="17" />
+          <folding>
+            <element signature="method#nextInt#1;class#Random#0" expanded="false" />
+            <element signature="e#19076#19077#0" expanded="false" />
+            <element signature="e#19128#19129#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1126,13 +1005,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/makrr/PathfindingAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="7456" max-vertical-offset="10800">
@@ -1165,33 +1037,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchActor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="705">
-          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#setColor#0;class#MatchActor#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/GridWorld.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/makrr/MatchingGrid.java">
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="142" max-vertical-offset="2040">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#MatchingGrid#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#setupGridWithRandomActors#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#locationClicked#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#checkForGameEnd#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#getRandomLocation#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#getRandomColor#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#getRandomInt#0;class#MatchingGrid#0" expanded="true" />
-            <element signature="method#getRandomFloat#0;class#MatchingGrid#0" expanded="true" />
+            <element signature="method#main#0;class#Main#0" expanded="true" />
+            <element signature="method#getResources#0;class#Main#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1199,62 +1057,22 @@
     <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorldFrameResources.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamGUIController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="4740">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10905#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="method#SamGUIController#0;class#SamGUIController#0" expanded="true" />
-            <element signature="method#step#0;class#SamGUIController#0" expanded="true" />
-            <element signature="method#addOccupant#0;class#SamGUIController#0" expanded="true" />
-            <element signature="method#run#0;class#SamGUIController#0" expanded="true" />
-            <element signature="method#stop#0;class#SamGUIController#0" expanded="true" />
-            <element signature="method#makeControls#0;class#SamGUIController#0" expanded="true" />
-            <element signature="method#locationClicked#0;class#SamGUIController#0" expanded="true" />
-            <element signature="method#editLocation#0;class#SamGUIController#0" expanded="true" />
-            <element signature="method#deleteLocation#0;class#SamGUIController#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="173" max-vertical-offset="4230">
-          <caret line="26" column="11" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#SamWorld#0;class#SamWorld#0" expanded="true" />
-            <element signature="method#SamWorld#1;class#SamWorld#0" expanded="true" />
-            <element signature="method#show#0;class#SamWorld#0" expanded="true" />
-            <element signature="method#setGrid#0;class#SamWorld#0" expanded="true" />
-            <element signature="method#setMessage#0;class#SamWorld#0" expanded="true" />
-            <element signature="method#locationClicked#0;class#SamWorld#0" expanded="true" />
-            <element signature="method#getRandomEmptyLocation#0;class#SamWorld#0" expanded="true" />
-            <element signature="e#4143#4153#0" expanded="true" />
-            <element signature="method#add#0;class#SamWorld#0" expanded="true" />
-            <element signature="method#remove#0;class#SamWorld#0" expanded="true" />
-            <element signature="method#repaint#0;class#SamWorld#0" expanded="true" />
-            <element signature="method#toString#0;class#SamWorld#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorldFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="945" max-vertical-offset="7875">
-          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        <state vertical-scroll-proportion="-17.192308" vertical-offset="2523" max-vertical-offset="7860">
+          <caret line="211" column="5" selection-start-line="211" selection-start-column="5" selection-end-line="211" selection-end-column="5" />
           <folding>
             <element signature="e#0#20553#0" expanded="true" />
             <element signature="imports" expanded="true" />
             <element signature="method#SamWorldFrame#0;class#SamWorldFrame#0" expanded="true" />
             <element signature="method#repaint#0;class#SamWorldFrame#0" expanded="true" />
+            <element signature="e#8465#8466#0" expanded="true" />
+            <element signature="e#8493#8494#0" expanded="true" />
             <element signature="method#setGrid#0;class#SamWorldFrame#0" expanded="true" />
             <element signature="e#8788#8801#0" expanded="true" />
             <element signature="method#showError#0;class#SamWorldFrame#0" expanded="true" />
@@ -1273,33 +1091,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/makrr/GridWorld.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/makrr/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamGUIController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state vertical-scroll-proportion="-10.846154" vertical-offset="3558" max-vertical-offset="4740">
+          <caret line="294" column="29" selection-start-line="294" selection-start-column="29" selection-end-line="294" selection-end-column="29" />
           <folding>
+            <element signature="e#0#10905#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="method#main#0;class#Main#0" expanded="true" />
-            <element signature="method#animatePath#0;class#Main#0" expanded="true" />
-            <element signature="method#newGame#0;class#Main#0" expanded="true" />
+            <element signature="method#SamGUIController#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#step#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#addOccupant#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#run#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#stop#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#makeControls#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#editLocation#0;class#SamGUIController#0" expanded="true" />
+            <element signature="method#deleteLocation#0;class#SamGUIController#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/makrr/BacktrackingAlgorithm.java">
+    <entry file="file://$PROJECT_DIR$/src/com/makrr/SamWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64714944" vertical-offset="0" max-vertical-offset="1365">
-          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.3559322" vertical-offset="1449" max-vertical-offset="4230">
+          <caret line="118" column="42" selection-start-line="118" selection-start-column="42" selection-end-line="118" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#numberOfTurnsInPath#0;class#BacktrackingAlgorithm#0" expanded="true" />
-            <element signature="method#possibleLocationsForLocation#0;class#BacktrackingAlgorithm#0" expanded="true" />
-            <element signature="e#1992#2002#0" expanded="true" />
+            <element signature="method#SamWorld#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#SamWorld#1;class#SamWorld#0" expanded="true" />
+            <element signature="method#show#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#setGrid#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#setMessage#0;class#SamWorld#0" expanded="true" />
+            <element signature="e#2197#2198#0" expanded="true" />
+            <element signature="e#2227#2228#0" expanded="true" />
+            <element signature="method#getRandomEmptyLocation#0;class#SamWorld#0" expanded="true" />
+            <element signature="e#4058#4068#0" expanded="true" />
+            <element signature="method#add#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#remove#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#repaint#0;class#SamWorld#0" expanded="true" />
+            <element signature="method#toString#0;class#SamWorld#0" expanded="true" />
           </folding>
         </state>
       </provider>

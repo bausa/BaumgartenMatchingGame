@@ -116,10 +116,7 @@ public class SamWorld<T>
      * invoke the Location->Edit menu action
      */
     public boolean locationClicked(Location loc) {
-        if (this.getGrid() instanceof MatchingGrid) {
-            ((MatchingGrid) this.getGrid()).locationClicked(loc);
-        }
-
+        System.out.println("CLICK DETECTED");
         return false;
     }
 
